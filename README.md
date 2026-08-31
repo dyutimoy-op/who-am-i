@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>About Me - Dyutimoy Kundu</title>
+
 </head>
 
 <body style="text-align: center;background-color:rgb(201, 210, 237);">
